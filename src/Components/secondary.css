@@ -1,0 +1,37 @@
+.changeColor {
+  color: #262626;
+}
+.changeColor:hover {
+  color: #d3dce6;
+}
+.changeColorPatreon {
+  color: #262626;
+}
+.changeColorPatreon:hover {
+  color: hsl(14, 100%, 60%);
+}
+.changeColorPaypal {
+  color: #262626;
+}
+.changeColorPaypal:hover {
+  color: hsl(206, 100%, 63%);
+}
+.star {
+  color: #ffff51;
+}
+.star:hover {
+  color: #7e5bef;
+}
+
+#Arrow {
+  color: #d3dce6;
+}
+#Arrow:hover {
+  color: #7e5bef;
+}
+
+.break-line {
+  border-top: 1px solid white;
+  width: 93%;
+  margin: 5px;
+}
